@@ -10,7 +10,7 @@ Develop a template for the documentation of the neuromodulation tool to scrap PD
 
 # What directories are included in this package
 * Data: This directory contains relevant data used for the code to run  
-* Notebooks: This directory contains the JupyterNotebooks for analysis, code development, and troubleshooting
-* Code: This directory contains final/completed python scripts
+* Notebooks: This directory contains the JupyterNotebooks for analysis, code development, output, and troubleshooting
+* Code: This directory contains final/completed python scripts .py
 
 Note: If Jupyter Notebooks become too long then separate into individual Jupyter Notebooks
