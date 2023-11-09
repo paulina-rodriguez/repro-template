@@ -118,6 +118,7 @@ ls -al # lists what's in the current directory with more info.
 cd Desktop/folderName # enters the directory located in this path 
 mkdir NewFolder # create a new folder and call it NewFolder
 cd ~ # enters the home directory
+history # shows the last few terminal commands 
 ```
 
 ## Resources:
